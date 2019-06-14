@@ -1,5 +1,5 @@
 def unsafe?(speed)
-(age > 60 || age < 40) ? "true" : "false"
+(speed > 60 || speed < 40) ? "true" : "false"
 end
 
 
